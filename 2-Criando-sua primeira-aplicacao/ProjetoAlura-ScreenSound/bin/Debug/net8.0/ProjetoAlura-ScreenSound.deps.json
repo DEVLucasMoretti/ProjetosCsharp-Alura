@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProjetoAlura-ScreenSound/1.0.0": {
+        "runtime": {
+          "ProjetoAlura-ScreenSound.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoAlura-ScreenSound/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

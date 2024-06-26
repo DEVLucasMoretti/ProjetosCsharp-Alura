@@ -1,0 +1,14 @@
+C:\AluraC#\ProjetoAlura-ScreenSound\bin\Debug\net8.0\ProjetoAlura-ScreenSound.exe
+C:\AluraC#\ProjetoAlura-ScreenSound\bin\Debug\net8.0\ProjetoAlura-ScreenSound.deps.json
+C:\AluraC#\ProjetoAlura-ScreenSound\bin\Debug\net8.0\ProjetoAlura-ScreenSound.runtimeconfig.json
+C:\AluraC#\ProjetoAlura-ScreenSound\bin\Debug\net8.0\ProjetoAlura-ScreenSound.dll
+C:\AluraC#\ProjetoAlura-ScreenSound\bin\Debug\net8.0\ProjetoAlura-ScreenSound.pdb
+C:\AluraC#\ProjetoAlura-ScreenSound\obj\Debug\net8.0\ProjetoAlura-ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraC#\ProjetoAlura-ScreenSound\obj\Debug\net8.0\ProjetoAlura-ScreenSound.AssemblyInfoInputs.cache
+C:\AluraC#\ProjetoAlura-ScreenSound\obj\Debug\net8.0\ProjetoAlura-ScreenSound.AssemblyInfo.cs
+C:\AluraC#\ProjetoAlura-ScreenSound\obj\Debug\net8.0\ProjetoAlura-ScreenSound.csproj.CoreCompileInputs.cache
+C:\AluraC#\ProjetoAlura-ScreenSound\obj\Debug\net8.0\ProjetoAlura-ScreenSound.dll
+C:\AluraC#\ProjetoAlura-ScreenSound\obj\Debug\net8.0\refint\ProjetoAlura-ScreenSound.dll
+C:\AluraC#\ProjetoAlura-ScreenSound\obj\Debug\net8.0\ProjetoAlura-ScreenSound.pdb
+C:\AluraC#\ProjetoAlura-ScreenSound\obj\Debug\net8.0\ProjetoAlura-ScreenSound.genruntimeconfig.cache
+C:\AluraC#\ProjetoAlura-ScreenSound\obj\Debug\net8.0\ref\ProjetoAlura-ScreenSound.dll
