@@ -1,0 +1,15 @@
+C:\AluraC#\AluraC#Testes\obj\Debug\net8.0\AluraC#Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraC#\AluraC#Testes\obj\Debug\net8.0\AluraC#Testes.AssemblyInfoInputs.cache
+C:\AluraC#\AluraC#Testes\obj\Debug\net8.0\AluraC#Testes.AssemblyInfo.cs
+C:\AluraC#\AluraC#Testes\obj\Debug\net8.0\AluraC#Testes.csproj.CoreCompileInputs.cache
+C:\AluraC#\AluraC#Testes\obj\Debug\net8.0\AluraC#Testes.sourcelink.json
+C:\AluraC#\AluraC#Testes\bin\Debug\net8.0\AluraC#Testes.exe
+C:\AluraC#\AluraC#Testes\bin\Debug\net8.0\AluraC#Testes.deps.json
+C:\AluraC#\AluraC#Testes\bin\Debug\net8.0\AluraC#Testes.runtimeconfig.json
+C:\AluraC#\AluraC#Testes\bin\Debug\net8.0\AluraC#Testes.dll
+C:\AluraC#\AluraC#Testes\bin\Debug\net8.0\AluraC#Testes.pdb
+C:\AluraC#\AluraC#Testes\obj\Debug\net8.0\AluraC#Testes.dll
+C:\AluraC#\AluraC#Testes\obj\Debug\net8.0\refint\AluraC#Testes.dll
+C:\AluraC#\AluraC#Testes\obj\Debug\net8.0\AluraC#Testes.pdb
+C:\AluraC#\AluraC#Testes\obj\Debug\net8.0\AluraC#Testes.genruntimeconfig.cache
+C:\AluraC#\AluraC#Testes\obj\Debug\net8.0\ref\AluraC#Testes.dll
