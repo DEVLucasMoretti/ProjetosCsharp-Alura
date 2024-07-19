@@ -2,7 +2,7 @@
 <h1>Screen Sound</h1>
 <p>A aplicação Screen Sound  é um programa de console interativo desenvolvido para a gestão de bandas musicais e suas avaliações. Projetada para facilitar o registro e a avaliação de bandas e seus álbuns, a aplicação oferece uma série de funcionalidades organizadas em um menu de opções.
 
-![imagem](./img/ScreenSound.png)
+![imagem](ScreenSound/img/ScreenSound.png)
 
 <h1>Funcionalidades Principais</h1>
 
@@ -25,7 +25,7 @@
 <li>Encerra a aplicação de forma segura, garantindo que o usuário possa sair do programa quando desejar.</li>
 <br>
 <h1>Como Funciona</h1>
-Ao iniciar a aplicação, o usuário é recebido com uma tela de boas-vindas que exibe o logo do Screen Sound 2.0 e uma mensagem de boas-vindas. Em seguida, o menu de opções é apresentado, permitindo que o usuário escolha entre as diversas funcionalidades disponíveis digitando o número correspondente à opção desejada.
+Ao iniciar a aplicação, o usuário é recebido com uma tela de boas-vindas que exibe o logo do Screen Sound e uma mensagem de boas-vindas. Em seguida, o menu de opções é apresentado, permitindo que o usuário escolha entre as diversas funcionalidades disponíveis digitando o número correspondente à opção desejada.
 
 A aplicação utiliza um dicionário para armazenar as bandas e outro para as opções do menu. Dependendo da escolha do usuário, o programa chama e executa a funcionalidade correspondente, proporcionando uma experiência de uso fluida e intuitiva.
 
