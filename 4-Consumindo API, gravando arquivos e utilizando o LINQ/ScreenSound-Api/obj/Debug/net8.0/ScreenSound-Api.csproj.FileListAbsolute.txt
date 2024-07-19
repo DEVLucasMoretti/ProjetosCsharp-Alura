@@ -1,0 +1,15 @@
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\bin\Debug\net8.0\ScreenSound-Api.exe
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\bin\Debug\net8.0\ScreenSound-Api.deps.json
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\bin\Debug\net8.0\ScreenSound-Api.runtimeconfig.json
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\bin\Debug\net8.0\ScreenSound-Api.dll
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\bin\Debug\net8.0\ScreenSound-Api.pdb
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\obj\Debug\net8.0\ScreenSound-Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\obj\Debug\net8.0\ScreenSound-Api.AssemblyInfoInputs.cache
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\obj\Debug\net8.0\ScreenSound-Api.AssemblyInfo.cs
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\obj\Debug\net8.0\ScreenSound-Api.csproj.CoreCompileInputs.cache
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\obj\Debug\net8.0\ScreenSound-Api.sourcelink.json
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\obj\Debug\net8.0\ScreenSound-Api.dll
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\obj\Debug\net8.0\refint\ScreenSound-Api.dll
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\obj\Debug\net8.0\ScreenSound-Api.pdb
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\obj\Debug\net8.0\ScreenSound-Api.genruntimeconfig.cache
+C:\AluraC#\4-Consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-Api\obj\Debug\net8.0\ref\ScreenSound-Api.dll
